@@ -1,4 +1,3 @@
-# .github/workflows/deploy.yaml
 name: Deploy Astro site to GitHub Pages
 
 on:
@@ -34,20 +33,19 @@ jobs:
         with:
           path: ./dist
 
-deploy:
-  needs: build
-  runs-on: ubuntu-latest
-  environment:
-    name: github-pages
-    url: ${{ steps.deployment.outputs.page_url }}
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
-  steps:
-    - name: Workaround: load upload-artifact@v3
-      uses: actions/upload-artifact@v3
-      with:
-        name: dummy
-        path: .
+    steps:
+      - name: Dummy step to force artifact load
+        uses: actions/upload-artifact@v3
+        with:
+          name: dummy
+          path: README.md  # podés usar cualquier archivo que exista
 
-    - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v2
+      - name
+
