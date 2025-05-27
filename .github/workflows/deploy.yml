@@ -3,7 +3,7 @@ name: Deploy Astro site to GitHub Pages
 on:
   push:
     branches:
-      - main  # o tu rama principal
+      - main  # Cambia si tu rama principal tiene otro nombre
 
 permissions:
   contents: read
@@ -41,11 +41,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Dummy step to force artifact load
+      - name: Checkout (required for deploy-pages)
+        uses: actions/checkout@v4
+
+      # ✅ Workaround para forzar carga de upload-artifact@v3
+      - name: Dummy step to load upload-artifact
         uses: actions/upload-artifact@v3
         with:
           name: dummy
-          path: README.md  # podés usar cualquier archivo que exista
+          path: README.md  # Asegurate de que este archivo exista en tu repo
 
-      - name
-
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
