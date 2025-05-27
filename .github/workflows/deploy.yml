@@ -1,24 +1,21 @@
-name: Deploy to GitHub Pages
+# .github/workflows/deploy.yaml
+name: Deploy Astro site to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # o la rama que uses
+      - main  # o tu rama principal
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Setup Node
@@ -27,12 +24,12 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
-      - name: Build with Astro
+      - name: Build site
         run: npm run build
 
-      - name: Upload artifact
+      - name: Upload dist folder
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./dist
@@ -43,10 +40,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
-    permissions:
-      pages: write
-      id-token: write
 
     steps:
       - name: Deploy to GitHub Pages
