@@ -1,11 +1,18 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
-		description: '',
+		company: 'Tav ingeniería S.A.',
+		time: 'Marzo 2022 - Actualidad',
+		title: 'Proyectista',
+		location: 'Santa Fe Capital, Argentina',
+		description: 'Elaboración de planos constructivos de equipos industriales. Gestión y elaboración de equipos, piping, etc. Cálculos de resistencia de materiales, verificación de espesores de materiales en recipientes apresión. Diseño y cálculo de equipos termo mecánicos. Ayudante de Logística y envíos internacionales. Elaboración de manuales de mantenimiento de equipos. Desarrollo de ingeniería de procesos. Montaje de equipos en plantas de clientes. Coordinación y dirección de equipo.',
 	},
+	{
+		company: 'Industria Sodera S.R.L. - SodaEstambul',
+		time: 'Enero 2022 - Marzo 2022',
+		title: 'Encargado de Taller',
+		location: 'Santa Fe Capital, Argentina',
+		description: 'Gestión de mantenimiento de maquinaria. Mejoras en diseños de máquinas y sistemas de transporte de producto. Implementación de planes de mantenimiento.',
+	}
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
 	// 	time: '1914 - 1934',
@@ -17,9 +24,9 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
+		school: 'Universidad Técnologica Nacional',
+		time: '2016-2025',
+		degree: 'Ingeniero Mecánico',
 		location: '',
 		description: '',
 	},
@@ -34,7 +41,16 @@ export const education = [
 
 export const skills = [
 	{
-		title: '',
+		title: 'Solidworks',
+		description: 'Diseño CAD 3D, modelado de piezas y ensamblajes, simulación de esfuerzos. Uso de modulos de chapa metálica y miembros estructurales. Desplegado de chapas y exportación a archivos DXF para corte láser.',
+	},
+
+	{
+		title: 'Metrología y resistencia de materiales.',
+		description: '',
+	},
+	{
+		title: 'Diseño e instalación de máquinas y equipostermomecánicos.',
 		description: '',
 	},
 	// {
