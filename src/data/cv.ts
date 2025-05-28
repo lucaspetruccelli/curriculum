@@ -66,7 +66,7 @@ export const skills = [
 
 export const publications = [
 	{
-		title: 'Ejecución de mantenimiento correctivo en tanques de procesos',
+		title: 'Mantenimiento en tanques de procesos',
 		authors: 'Lucas Petruccelli',
 		journal: 'Lucas Petruccelli',
 		time: 'Febrero 2025',
@@ -74,7 +74,7 @@ export const publications = [
 		abstract: '',
 	},
 	{
-		title: 'Acreditacion de carreras de Ingenieria Mecánica',
+		title: 'Acreditacion de carrera',
 		authors: 'Lucas Petruccelli',
 		journal: 'Lucas Petruccelli',
 		time: 'Diciembre 2024',
