@@ -5,7 +5,9 @@ export const profile = {
 	institute: 'Universidad Tecnológica Nacional (F.R.S.F.)',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		 { title: 'Acero Inoxidable', description: 'Diseño de equipos sanitarios para la industria alimenticia y famaceutica.', field: 'Metalúrgica' },
+		 { title: 'Diseño CAD', description: 'Manejo fluido de Solidworks, AutoCAD y Fusion360.', field: 'Metalúrgica' },
+		 { title: 'Gestión de equipos', description:'Coordinación de personal para tareas de mantenimiento y montaje.', field: 'Metalúrgica' }
 	],
 }
 
@@ -33,7 +35,7 @@ export const template = {
 }
 
 export const seo = {
-	default_title: 'Ing. Mecánico',
+	default_title: 'Ing. Lucas Petruccelli',
 	default_description: 'Online resume of a mechanical engineer',
 	default_image: '/images/astro-academia.png',
 }

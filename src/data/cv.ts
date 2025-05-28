@@ -13,13 +13,6 @@ export const experiences = [
 		location: 'Santa Fe Capital, Argentina',
 		description: 'Gestión de mantenimiento de maquinaria. Mejoras en diseños de máquinas y sistemas de transporte de producto. Implementación de planes de mantenimiento.',
 	}
-	// {
-	// 	company: 'Radium Institute (Institut du Radium)',
-	// 	time: '1914 - 1934',
-	// 	title: 'Director',
-	// 	location: 'Paris, France',
-	// 	description: 'Led groundbreaking studies on radioactivity and mentored future Nobel Prize laureates.',
-	// },
 ];
 
 export const education = [
@@ -47,33 +40,46 @@ export const skills = [
 
 	{
 		title: 'Metrología y resistencia de materiales.',
-		description: '',
+		description: 'Formación en metrologia, elementos de medicion, ejecucion y calibracion de artefactos. Sólidos conocimientos en análisis de esfuerzos, deformaciones, y comportamiento mecánico de materiales bajo distintas condiciones de carga. Aplicación en diseño estructural y evaluación de componentes mecánicos.'
 	},
 	{
-		title: 'Diseño e instalación de máquinas y equipostermomecánicos.',
-		description: '',
+		title: 'Diseño e instalación de máquinas y equipos termomecánicos.',
+		description: 'Experiencia en el diseño, análisis y cálculo de máquinas y sistemas termomecánicos, considerando factores como la transferencia de calor, tensiones térmicas y mecánicas, así como la selección de materiales y procesos de fabricación adecuados.',
 	},
-	// {
-	// 	title: 'Experimental Techniques',
-	// 	description: 'Spectroscopy, Isolation of Radioactive Elements, Radiation Measurement',
-	// },
+	{
+		title:'Metalografía',
+		description:'Análisis microestructural de materiales metálicos mediante técnicas de preparación, ataque químico y observación con microscopía óptica. Aplicación en control de calidad y caracterización de tratamientos térmicos.'
+	},
+	{
+		title: 'Piping y conductos',
+		description:'Diseño, cálculo y especificación de sistemas de piping y conductería, incluyendo la selección de materiales, dimensionamiento de tuberías, soportes y válvulas, y la integración de normas y estándares de seguridad en proyectos industriales.'
+	},
+	{
+		title: 'Impresión 3D',
+		description: 'Diseño y fabricación de piezas finales o prototipos mediante impresión 3D. Conocimiento de diferentes tipos de filamentos y sus aplicaciones.',
+	},
+	{
+		title: 'Idiomas',
+		description: 'Estudiando inglés de manera particular 2hs semanales. Nivel B1 (Intermedio) no certificado.',
+	},
 ];
 
 export const publications = [
 	{
-		title: '',
-		authors: '',
-		journal: '',
-		time: '',
+		title: 'Ejecución de mantenimiento correctivo en tanques de procesos',
+		authors: 'Lucas Petruccelli',
+		journal: 'Lucas Petruccelli',
+		time: 'Febrero 2025',
 		link: '',
 		abstract: '',
 	},
-	// {
-	// 	title: 'The Radiation of Uranium Compounds',
-	// 	authors: 'Marie Curie',
-	// 	journal: 'Comptes Rendus de l’Académie des Sciences',
-	// 	time: '1898',
-	// 	link: '#',
-	// 	abstract: 'Early research leading to the identification of uranium’s radioactive properties.',
-	// },
+	{
+		title: 'Acreditacion de carreras de Ingenieria Mecánica',
+		authors: 'Lucas Petruccelli',
+		journal: 'Lucas Petruccelli',
+		time: 'Diciembre 2024',
+		link: '',
+		abstract: '',
+	},
+	
 ];
