@@ -70,7 +70,7 @@ export const publications = [
 		authors: 'Lucas Petruccelli',
 		journal: 'Lucas Petruccelli',
 		time: 'Febrero 2025',
-		link: '',
+		link: './mantenimiento-nova',
 		abstract: '',
 	},
 	{
@@ -78,7 +78,7 @@ export const publications = [
 		authors: 'Lucas Petruccelli',
 		journal: 'Lucas Petruccelli',
 		time: 'Diciembre 2024',
-		link: '',
+		link: './acreditacion',
 		abstract: '',
 	},
 	
