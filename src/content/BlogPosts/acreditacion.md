@@ -21,7 +21,19 @@ Entre las actividades en las que destaco se encuentran:
 - Diseño de intercambiadores de calor
 - Cálculo de sistemas de piping para productos. 
 
-Además, tuve la oportunidad de trabajar con materiales y procesos de producción ajustados a los estándares de ASME BPE, especialmente en el ámbito del manejo de productos farmacéuticos y alimenticios.\
+Además, tuve la oportunidad de trabajar con materiales y procesos de producción ajustados a los estándares de ASME BPE, especialmente en el ámbito del manejo de productos farmacéuticos y alimenticios.
+
 También participé en la elaboración de planimetría e ingeniería de procesos de fabricación, enfocándome en la optimización de tiempos y recursos, contribuyendo así a la eficiencia y calidad de los proyectos.
 
  Por último, pero no menos importante, tuve gran participación en la logística y planificación de envíos internacionales de equipos, donde me involucré en la planificación de los envíos, determinación de la cantidad de contenedores y en la organización y el seguimiento de cada uno de ellos.
+
+ ## Cierre de una étapa
+
+ Es gratificante poder concluir mi etapa educativa después de años de estudios, esfuerzo y experiencia laboral en el rubro.
+
+ Para finalizar este posteo quiero agradecer a todas aquellas personas que me apoyaron en este proceso y me ayudaron y ayudan día a día a ser un mejor ingeniero.
+
+<br>
+<br>
+<br>
+<br>
