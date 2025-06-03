@@ -7,7 +7,7 @@ excerpt: "Acreditación de carrera "
 
 # Obtención de título universitario
 
-![Defensa de acreditación de carrera](/curriculum/assets/acreditacion.jpg)
+![Defensa de acreditación de carrera](https://github.com/lucaspetruccelli/curriculum/blob/main/src/assets/acreditacion.jpg?raw=true)
 
 El 20 de diciembre de 2024 defendí con orgullo mi proyecto final de carrera, un hito importante en mi formación profesional como Ingeniero Mecánico.
 
