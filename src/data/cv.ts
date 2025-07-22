@@ -64,13 +64,21 @@ export const skills = [
 	},
 ];
 
-export const publications = [
-	{
+type Publics = {
+	title: string;
+	authors: string;
+	journal: string;
+	time: string;
+	link: string;
+	abstract: string;
+}
+export const publications:  Publics[]= [
+		{
 		title: 'Mantenimiento en tanques de procesos',
 		authors: 'Lucas Petruccelli',
 		journal: 'Lucas Petruccelli',
-		time: 'Febrero 2025',
-		link: './mantenimiento-nova',
+		time: 'Julio 2025',
+		link: './mantenimiento-rizobacter',
 		abstract: '',
 	},
 	{
