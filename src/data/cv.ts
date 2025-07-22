@@ -82,7 +82,15 @@ export const publications:  Publics[]= [
 		link: './inspeccion-burbujeadores',
 		abstract: '',
 	},
-		{
+	{
+		title: 'Reparacion de cuadro de gas',
+		authors: 'Lucas Petruccelli',
+		journal: 'Lucas Petruccelli',
+		time: 'Julio 2025',
+		link: './cuadrogas-cremigal',
+		abstract: '',
+	},
+	{
 		title: 'Mantenimiento en tanques de procesos',
 		authors: 'Lucas Petruccelli',
 		journal: 'Lucas Petruccelli',
