@@ -2,7 +2,7 @@
 title: "Mantenimiento en tanques de procesos"
 date: "2025-02-018"
 tags: ["research"]
-excerpt: Mantenimiento correctivo en interior de tanques de procesos"
+excerpt: "Mantenimiento correctivo en interior de tanques de procesos"
 ---
 <sub> Poner imagen aca</sub>
 

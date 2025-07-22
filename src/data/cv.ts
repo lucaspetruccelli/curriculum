@@ -73,6 +73,7 @@ type Publics = {
 	abstract: string;
 }
 export const publications:  Publics[]= [
+
 	{
 		title: 'Inspección de tubos con boroscopio',
 		authors: 'Lucas Petruccelli',
