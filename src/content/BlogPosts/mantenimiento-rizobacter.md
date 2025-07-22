@@ -2,9 +2,9 @@
 title: "Trabajos en planta de Rizobacter"
 date: "2025-07-022"
 tags: ["Mantenimineto industrial"]
-excerpt: "Montaje de tanques de procesos para agrpquimicos"
+excerpt: "Montaje de tanques de procesos para agroquímicos"
 ---
-## Introduccion
+## Introducción
 El día miércoles 16 de julio de 2025 nos presentamos en la planta del cliente Rizobacter, con el objetivo de realizar una inspección visual en el interior de los tanques. La intervención se llevó a cabo a raíz de una notificación por parte del cliente, quien reportó la presencia de “manchas de óxido” en los tanques.
 ![Agitador de tanque de procesos](https://github.com/lucaspetruccelli/curriculum/blob/main/src/assets/mantenimientoRizo/02.jpg?raw=true)
 
