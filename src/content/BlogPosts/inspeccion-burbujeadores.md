@@ -1,9 +1,10 @@
 ---
-title: "Inspección de tubos con cámara endoscópica"
+title: "Inspección de tubos con boroscopio"
 date: "2025-06-02"
 tags: ["Inspección", "Detección de fallas", "Control de calidad"]
 excerpt: Mantenimiento correctivo en interior de tanques de procesos"
 ---
+![Inspección de tubos](https://github.com/lucaspetruccelli/curriculum/blob/main/src/assets/mantenimientoRizo/02.jpg?raw=true)
 Se debió realizar un retrabajo en siete burbujeadores destinados a tanques de procesos de la planta de Rizobacter, debido a que los materiales utilizados en la fabricación original no cumplían con los estándares de calidad requeridos. En particular, se debió reemplazar la cañería por tubos que cumplan con la norma ASME BPE, la cual es de uso obligatorio en aplicaciones de tipo farmacéutico.
 
 Como primer paso, se relevaron las dimensiones de los burbujeadores existentes para asegurar que las nuevas unidades fueran completamente compatibles con los equipos ya fabricados. A lo largo de todo el proceso de fabricación, se realizó un seguimiento constante de las tareas y controles de calidad.
