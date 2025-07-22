@@ -6,7 +6,7 @@ excerpt: "Montaje de tanques de procesos para agrpquimicos"
 ---
 ## Introduccion
 El día miércoles 16 de julio de 2025 nos presentamos en la planta del cliente Rizobacter, con el objetivo de realizar una inspección visual en el interior de los tanques. La intervención se llevó a cabo a raíz de una notificación por parte del cliente, quien reportó la presencia de “manchas de óxido” en los tanques.
-![Agitador de tanque de procesos](/src/assets/mantenimientoRizo/02.jpg)
+![Agitador de tanque de procesos](/images/mantenimientoRizo/02.jpg)
 
 ## Analisis  del problema
 Cabe destacar que dichos tanques están fabricados en su totalidad en acero inoxidable, por lo que la aparición de óxido en condiciones normales resulta técnicamente improbable. Ante esta situación, se consideró la posibilidad de una contaminación externa como causa de las marcas observadas.
