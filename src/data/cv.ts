@@ -1,7 +1,14 @@
 export const experiences = [
 	{
+		company: 'San Benito Energía',
+		time: 'Agosto 2025 - Actualidad',
+		title: 'Ingeniero de proyectos',
+		location: 'Añelo, Neuquén, Argentina',
+		description: '',
+	},
+	{
 		company: 'Tav ingeniería S.A.',
-		time: 'Marzo 2022 - Actualidad',
+		time: 'Marzo 2022 - Julio 2025',
 		title: 'Proyectista',
 		location: 'Santa Fe Capital, Argentina',
 		description: 'Elaboración de planos constructivos de equipos industriales. Gestión y elaboración de equipos, piping, etc. Cálculos de resistencia de materiales, verificación de espesores de materiales en recipientes apresión. Diseño y cálculo de equipos termo mecánicos. Ayudante de Logística y envíos internacionales. Elaboración de manuales de mantenimiento de equipos. Desarrollo de ingeniería de procesos. Montaje de equipos en plantas de clientes. Coordinación y dirección de equipo.',
